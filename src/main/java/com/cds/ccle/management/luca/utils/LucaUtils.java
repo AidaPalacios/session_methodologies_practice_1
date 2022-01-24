@@ -77,5 +77,4 @@ public class LucaUtils {
         resultDurationParsed.append(roundStringHour(seconds));
         return resultDurationParsed.toString();
 	}
-	
 }
